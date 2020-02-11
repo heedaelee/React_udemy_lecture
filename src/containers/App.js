@@ -6,6 +6,7 @@ import Scroll from "../components/Scroll";
 import "./App.css";
 import ErrorBoundry from "../components/ErrorBoundry";
 import { setSearchField, requestRobots } from "../actions";
+import Header from "../components/Header";
 
 const mapStateToProps = state => {
   return {
@@ -24,9 +25,8 @@ const mapDispatchToProps = dispatch => {
 };
 
 class App extends Component {
-
   componentDidMount() {
-    this.props.onRequestRobots()
+    this.props.onRequestRobots();
     console.log("componentDidMount");
   }
 
@@ -40,7 +40,7 @@ class App extends Component {
       <h1>Loading</h1>
     ) : (
       <div className="tc">
-        <h1 className="f2">RoboFrends</h1>
+        <Header />
         <SearchBox searchChange={onSearchChange} />
         <Scroll>
           <ErrorBoundry>

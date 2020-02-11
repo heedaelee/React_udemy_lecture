@@ -4,6 +4,8 @@ import {robots} from '../robots';
 //robots은 export default 아니므로(멀티형식) {}로 받지 않는다.
 
 const CardList = ({ robots }) => {
+  console.log('CardList');
+  
   return (
     <div>
       {robots.map((user, i) => {
