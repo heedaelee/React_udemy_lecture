@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react_udemy_lecture/static/css/main.ce2f89f8.chunk.css",
+    "main.js": "/react_udemy_lecture/static/js/main.184873fe.chunk.js",
+    "main.js.map": "/react_udemy_lecture/static/js/main.184873fe.chunk.js.map",
+    "runtime-main.js": "/react_udemy_lecture/static/js/runtime-main.b5b021a1.js",
+    "runtime-main.js.map": "/react_udemy_lecture/static/js/runtime-main.b5b021a1.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/react_udemy_lecture/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.0ae71969.chunk.js": "/react_udemy_lecture/static/js/2.0ae71969.chunk.js",
+    "static/js/2.0ae71969.chunk.js.map": "/react_udemy_lecture/static/js/2.0ae71969.chunk.js.map",
+    "index.html": "/react_udemy_lecture/index.html",
+    "precache-manifest.21027429697bb9cb3d6dc4bc85776d9c.js": "/react_udemy_lecture/precache-manifest.21027429697bb9cb3d6dc4bc85776d9c.js",
+    "service-worker.js": "/react_udemy_lecture/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/react_udemy_lecture/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.ce2f89f8.chunk.css.map": "/react_udemy_lecture/static/css/main.ce2f89f8.chunk.css.map",
+    "static/js/2.0ae71969.chunk.js.LICENSE": "/react_udemy_lecture/static/js/2.0ae71969.chunk.js.LICENSE",
+    "static/media/App.css": "/react_udemy_lecture/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5b021a1.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.0ae71969.chunk.js",
+    "static/css/main.ce2f89f8.chunk.css",
+    "static/js/main.184873fe.chunk.js"
+  ]
+}
