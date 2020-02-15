@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d6a42d9a9f01ecc97f67f07a99f05171",
+    "revision": "c0b9347ee87e993510e110ce91977c8f",
     "url": "/react_udemy_lecture/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_udemy_lecture/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "33a7450dda356927c657",
+    "revision": "534b9a7c7c26bab0c651",
     "url": "/react_udemy_lecture/static/css/main.ce2f89f8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_udemy_lecture/static/js/2.0ae71969.chunk.js.LICENSE"
   },
   {
-    "revision": "33a7450dda356927c657",
-    "url": "/react_udemy_lecture/static/js/main.184873fe.chunk.js"
+    "revision": "534b9a7c7c26bab0c651",
+    "url": "/react_udemy_lecture/static/js/main.641f5426.chunk.js"
   },
   {
     "revision": "25db8168cc9f66859ce6",
